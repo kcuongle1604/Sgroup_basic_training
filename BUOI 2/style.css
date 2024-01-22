@@ -1,0 +1,152 @@
+
+.header-logo, .img, .about h2, .about p, .skill-section
+    {
+        margin-left: 70px;
+    }
+.header
+{
+    top: 0;
+    width: 100%;
+    padding: 15px 0;
+    font-size: 20px;
+}
+.header-logo
+{
+    display: inline-block;
+    background-color: black;
+    margin-right: 12px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    width: 40px;
+    height: 40px;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+}
+.logo1
+{
+        
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 880px;
+    align-items: center;
+}
+    
+.social a
+{
+    text-decoration: none;
+    border-radius: 100%;
+    height: 500px;
+    width: 300px;
+    color: white;
+    background:#F26464;
+} 
+.img
+{
+    display: inline-block;
+    margin-top: 40px;
+    margin-right: 50px;
+}
+.content
+{
+    display: inline-block;
+    
+}
+.h1
+{
+    margin-top: 20px;
+    font-size: 60px;
+}
+.hi-there
+{
+    font-size: 18px;
+    
+}
+.x1
+{
+    display: inline-block;
+    margin: 20px;
+}
+    
+.x1 p
+{
+    color: #F26464;
+    margin: 0px;
+    padding: 0px;
+    font-size: 36px;
+    font-weight: 800;
+}
+.x1 span
+{
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+h2
+{
+    display: inline-block; 
+    font-weight: 700; 
+    color: black; 
+    letter-spacing: 1px; 
+    font-size: 16px; 
+    border-bottom: 3px solid #F26464; 
+    padding-bottom: 7px; 
+    margin-bottom: 23px;
+    margin-top: 23px;
+}
+    
+.about p
+{
+    color: #373737;
+    font-size: 24px;
+    line-height: 40px;
+    font-weight: 300;
+    margin-bottom: 60px;
+}
+.button
+{
+    margin: auto;
+    width: 15%;
+    border: 2px solid #F26464;
+    padding: 17px 30px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    color: #F26464;
+    text-align: center;
+    margin-bottom: 40px;
+    border-radius: 60px;
+}
+    
+.skill-section
+{
+    display: inline-block;
+}
+    
+.skill
+{
+    display: inline-block;
+    text-align: center;
+}
+    
+.skill-item
+{
+    display: inline-block;
+    margin: 10px;
+    margin-right: 15px;
+    background: white;
+    color: black;
+    border: 1px solid #D7D7D7;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 27px;
+}
+.content
+{
+    font-size: 20px;
+    padding-top: 25px;
+}
+.content1
+{
+    font-size: 40px;
+    padding-top: 30px;
+}
