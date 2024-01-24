@@ -1,4 +1,6 @@
-
+*{
+    font-family: "Inter", sans-serif;
+}
 .header-logo, .img, .about h2, .about p, .skill-section
     {
         margin-left: 70px;
